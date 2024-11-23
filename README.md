@@ -19,3 +19,6 @@ All the notes will be in the GitHub wiki. Think about the wiki as the "official"
 That being said, let start studying!
 
 # learning path
+
+| MATERIAL | PLATFORM | DURATION | DIFFICULT (1~5) | NOTEBOOK |
+|-------|---------|-------|---------|-------|
