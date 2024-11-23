@@ -20,5 +20,54 @@ That being said, let start studying!
 
 # learning path
 
-| MATERIAL | PLATFORM | DURATION | DIFFICULT (1~5) | NOTEBOOK |
-|-------|---------|-------|---------|-------|
+## Mathematic for AI
+
+## Python Foundamentals
+
+## Data Analysis
+
+## Pre-processing and Data Engineering
+
+## Data Science
+
+## Artificial Intelligence Foundamentals
+
+### Introduction to Artificial Intelligence
+
+### Rule and Agents-based Systems
+
+### Search and Optimization
+
+## Machine Learning A-Z
+
+### Supervisioned Learning
+
+### Unsupervisioned Learning
+
+## Deep Learning A-Z
+
+### Convolutional Neural Network (CNN)
+
+### Recurrent Neural Network
+
+### Transformers Network
+
+## Reinforcement Learning
+
+## Scikit-Learn Specialization
+
+## TensorFlow Specialization
+
+## PyTorch Specialization
+
+## Natural Language Processing (NLP)
+
+## Large Language Models (LLM)
+
+## Computer Vision
+
+## AI Ethics and Explainable AI
+
+## MLOps
+
+## Capstone Projects
