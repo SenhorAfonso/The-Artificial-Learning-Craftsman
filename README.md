@@ -22,6 +22,32 @@ That being said, let start studying!
 
 ## Mathematic for AI
 
+<table style="text-align: center;">
+  <tr style="text-align: center;">    <td align="center">COURSE</td>    <td>NOTEBOOK</td>    <td>PLATFORM</td>    <td>DURATION</td>  </tr>
+
+  
+  <tr><td align="center" colspan="4">Tópico 1</td></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  <tr></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  <tr></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  <tr></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  
+  
+  <tr><td align="center" colspan="4">Tópico 2</td></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  <tr></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+  <tr></tr>
+  <tr>    <td><a href="https://compassuol.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]</a></td>    <td><a href="https://github.com/SenhorAfonso/The-Artificial-Learning-Craftsman/wiki/Teste-page">Notebook</a></td>    <td>Udemy</td>    <td>42h48m</td>  </tr>
+
+  
+  <tr><td align="center" colspan="4">Tópico 3</td>  </tr>
+  
+</table>
+
 ## Python Foundamentals
 
 ## Data Analysis
