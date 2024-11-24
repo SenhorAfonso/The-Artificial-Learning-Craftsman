@@ -1,0 +1,120 @@
+{
+  "learning-path": [
+    {
+      "thumb": "./img/math-logo.png",
+      "course": "mathematics",
+      "topics": [
+        {
+          "title": "Algebra",
+          "lessons": [
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            }
+          ]
+        },
+        {
+          "title": "Algebra linear",
+          "lessons": [
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "thumb": "./math-logo.png",
+      "course": "data engineering",
+      "topics": [
+        {
+          "title": "Algebra",
+          "lessons": [
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            }
+          ]
+        },
+        {
+          "title": "Algebra linear",
+          "lessons": [
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            },
+            {
+              "thumb": "./math-logo.png",
+              "title": "Algebra",
+              "description": "Algebra description",
+              "notebook": "https://senhorafonso-notebook.notion.site/resum-o-ia-140386f466738068aeb9c3906b021966?pvs=4",
+              "duration": "2h"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
