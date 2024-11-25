@@ -6,7 +6,7 @@ function CourseTitle({ title, description, courseLink }) {
       <div className="flex items-center w-[480px] gap-4">
         <img src={mathLogo} className="w-10 h-10" alt="" />
 
-        <div className="flex flex-col gap-1 text-white">
+        <div className="flex flex-col gap-1 text-gray-300">
           <p className="ledger-regular font-bold lowercase text-ellipsis overflow-hidden whitespace-nowrap w-full">
             {title}
           </p>
